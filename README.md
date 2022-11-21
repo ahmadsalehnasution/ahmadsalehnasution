@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ahmad Saleh, currently I work as Social Media Analyst
+- 👋 Hi, I’m Ahmad Saleh, currently I work as WFM Analyst
 - 👀 I’m interested in Marketing, Market Research, Bloging, Full-Stack Developer and Data Analyst
 - 🌱 I’m currently learning Market Research, Data Analyticst, Business Analytics, Marketing, Phyton, SQL, R Statistic, CSS, HTML
 - 💞️ I’m looking to collaborate on Phyton, R Statistic
