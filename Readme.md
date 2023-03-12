@@ -1,31 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Welcome to my GitHub page!</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f2f2f2;
-      color: #333;
-    }
-    h1 {
-      font-size: 36px;
-      margin-top: 50px;
-      margin-bottom: 20px;
-      text-align: center;
-    }
-    p {
-      font-size: 18px;
-      line-height: 1.5;
-      margin: 0 auto;
-      max-width: 800px;
-      padding: 0 20px;
-      text-align: center;
-    }
-    a {
-      color: #007bff;
-    }
-  </style>
+ 
 </head>
 <body>
   <h1>Welcome to my GitHub page!</h1>
