@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome to my GitHub page!</title>
+</head>
+<body>
+  <h1>Welcome to my GitHub page!</h1>
+  <p>Thank you for visiting my page! Here you can find my latest projects, contributions to open source, and more. Feel free to explore and don't hesitate to get in touch if you have any questions or feedback.</p>
+</body>
+</html>
+
 - 👋 Hi, I’m Ahmad Saleh, currently I work as WFM Analyst
 - 👀 I’m interested in Data Analyst, Business Analyst, Marketing, Market Research, Bloging, Full-Stack Developer and AI
 - 🌱 I’m currently learning  Power Query, Power BI, Phyton, SQL, R Statistic, CSS, HTML
