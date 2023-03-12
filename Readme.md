@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning  Power Query, Power BI, Phyton, SQL, R Statistic, CSS, HTML
 - 💞️ I’m looking to collaborate on Phyton, R Statistic
 - 📫 let's connet in linkedin @ https://www.linkedin.com/in/ahmad-saleh-nasution/
-- 👀 My Resume, CV, and Portofolio https://ahmadsalehnasution.github.io/resume-cv-portfolio/
+- 👀 My Resume, CV, and Portofolio https://ahmadsalehnasution.github.io/
 
 <!---
 ahmadsalehnasution/ahmadsalehnasution is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
