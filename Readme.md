@@ -19,6 +19,9 @@
 - 📫 let's connet in linkedin @ https://www.linkedin.com/in/ahmad-saleh-nasution/
 - 👀 My Resume, CV, and Portofolio https://ahmadsalehnasution.github.io/
 - 🌱 Project in Github https://github.com/artacyber
+-   Tableau : https://public.tableau.com/app/profile/ahmadsalehnasution
+-   Kaggle : https://www.kaggle.com/ahmadsalehnasution
+
 
 <!---
 ahmadsalehnasution/ahmadsalehnasution is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
