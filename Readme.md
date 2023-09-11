@@ -9,14 +9,13 @@
 </body>
 </html>
 
-
 - 👋 Hi, I’m Ahmad Saleh, I Graduated with a Master of Business and Entrepreneurship from Universiti Kebangsaan Malaysia. Currently, I work as WFM Analyst at Teleperformance Malaysia
 - ❤️ I’m interested in Data Analyst, Business Analyst, Marketing, Market Research, Blogging, Full-Stack Developer and AI
 - 🙇🏻‍♂️ I’m currently learning  Power Query, Power BI, Phyton, SQL, R Statistic, CSS, HTML
 - 💞️ I’m looking to collaborate on Phyton, R Statistic
 - 📚 Academic Research @ https://www.bit.ly/4849wtj
 - 📫 Let's connect in linkedin @ https://www.linkedin.com/in/ahmad-saleh-nasution/
-- 👀 My Resume, CV, and Portfolio https://ahmadsalehnasution.github.io/
+- 📄 My Resume, CV, and Portfolio https://ahmadsalehnasution.github.io/
 - 🧑🏻‍💻 Project in Github https://github.com/artacyber
 - 💻  Tableau: https://public.tableau.com/app/profile/ahmadsalehnasution
 - 💻 Kaggle: https://www.kaggle.com/ahmadsalehnasution
