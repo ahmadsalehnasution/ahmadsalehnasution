@@ -19,7 +19,7 @@
 - 🧑🏻‍💻 Project in Github https://github.com/artacyber
 - 💻 Tableau: https://public.tableau.com/app/profile/ahmadsalehnasution
 - 💻 Kaggle: https://www.kaggle.com/ahmadsalehnasution
-- 💻 Financial Literacy blog: kayadenganemas.com
+- 💻 Financial Literacy blog: https://kayadenganemas.com
 
 
 <!---
