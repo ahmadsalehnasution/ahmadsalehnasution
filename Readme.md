@@ -14,7 +14,7 @@
 - 🙇🏻‍♂️ I’m currently learning  Power Query, Power BI, Phyton, SQL, R Statistic, CSS, HTML
 - 💞️ I’m looking to collaborate on Phyton, R Statistic
 - 📚 Academic Research @ https://www.bit.ly/4849wtj
-- 📫 Let's connect in linkedin @ https://www.linkedin.com/in/ahmad-saleh-nasution/
+- 📫 Let's connect in linkedin @ https://www.linkedin.com/in/ahmadsalehnasution/
 - 📄 My Resume, CV, and Portfolio https://ahmadsalehnasution.github.io/
 - 🧑🏻‍💻 Project in Github https://github.com/artacyber
 - 💻 Tableau: https://public.tableau.com/app/profile/ahmadsalehnasution
