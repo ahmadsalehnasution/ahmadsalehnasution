@@ -21,6 +21,17 @@
 - 💻 Kaggle: https://www.kaggle.com/ahmadsalehnasution
 - 💻 Financial Literacy blog: https://suksesdenganemas.com
 
+ Others Project
+https://ensiklopediamandailing.github.io/
+https://kamusmandailing.github.io/
+
+  Others Profile
+https://github.com/ahmadsalehnasution
+https://www.instagram.com/ahmad.saleh.nasution/
+https://www.facebook.com/ahmadsalehnasution
+https://www.tiktok.com/@ahmad.saleh.nasution
+https://www.threads.com/@ahmad.saleh.nasution
+
 
 <!---
 ahmadsalehnasution/ahmadsalehnasution is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
